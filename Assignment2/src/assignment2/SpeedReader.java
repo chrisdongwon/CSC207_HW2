@@ -6,10 +6,6 @@ import java.awt.FontMetrics;
 import java.awt.Graphics;
 import java.io.FileNotFoundException;
 
-// https://stackoverflow.com/questions/5585779/how-do-i-convert-a-string-to-an-int-in-java
-// https://docs.oracle.com/javase/tutorial/2d/text/measuringtext.html
-// https://mathbits.com/MathBits/Java/Graphics/Color.htm
-
 public class SpeedReader {
   public static void main(String[] args) throws FileNotFoundException, InterruptedException {
     parse(args);
