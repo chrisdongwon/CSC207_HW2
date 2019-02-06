@@ -14,11 +14,18 @@ public class WordGenerator {
     words = 0;
     sentences = 0;
   }
-
+  /*
+   * @ return if the text has a word following the current one
+   * 
+   */
   public boolean hasNext() {
     return this.text.hasNext();
   }
-
+  /*
+   * @ return next word in text 
+   * post: increments word count and sentence count when necessary
+   * 
+   */
   public String next() {
     String str = text.next();
     this.words++;
@@ -26,11 +33,15 @@ public class WordGenerator {
       this.sentences++;
     return str;
   }
-
+  /*
+   * @return gets the word count
+   */
   public int getWordCount() {
     return this.words;
   }
-
+  /*
+   * @return gets the sentence count
+   */
   public int getSentenceCount() {
     return this.sentences;
   }
