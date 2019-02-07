@@ -4,10 +4,22 @@ Authors: Chris Won, Gabby Masini
 
 Sources: 
 https://stackoverflow.com/questions/5585779/how-do-i-convert-a-string-to-an-int-in-java
+
 https://docs.oracle.com/javase/tutorial/2d/text/measuringtext.html
+
 https://mathbits.com/MathBits/Java/Graphics/Color.htm
 
 All the text files were taken from Wikipedia.org.
+
+https://en.m.wikipedia.org/wiki/Celts
+
+https://en.m.wikipedia.org/wiki/Julius_A._Palmer_Jr.
+
+https://en.m.wikipedia.org/wiki/Roman_Republic
+
+https://en.m.wikipedia.org/wiki/2019_Venezuelan_presidential_crisis
+
+https://en.m.wikipedia.org/wiki/Spain
 
 Comprehension Questions:
 
@@ -79,7 +91,15 @@ Roman Republic (350 wpm): 1/5
 
 Venezuelan Presidential Crisis (500 wpm):3/5
 
+Participant 3: 
 
+Celts (text file): 4/5
+
+Julius Palmer (250 wpm): 4/5
+
+Roman Republic (350 wpm): 
+
+Venezuelan Presidential Crisis (500 wpm):
 
 They seemed to comprehend about half of what they were reading for all speeds, and the speed did not seem to affect the results too much. Furthermore, the amount of interest that a participant had in a particular reading probably affected the results. Words in isolation at high speeds might be harder to comprehend because it is harder to remember the context or phrase it was found in. It also might be visually disconcerting to readers unfamiliar with speed readers. Also, the things that stood out to different people while reading were probably different, so they have comprehended the text but it isn't necessarily shown by the quizzes.
 
