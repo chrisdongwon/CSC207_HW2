@@ -50,7 +50,7 @@ The Roman Republic:
 Venezuelan Presidential Crisis (2019):
 1. Which part of the Venezuelan government declared Maduro's reelection to be invalid?
    A: The National Assembly
-2. Since 2010, how as Venezuela faired under Maduro?
+2. Since 2010, how has Venezuela faired under Maduro?
    A: Poorly. (It has been suffering from a socioeconomic crisis, rampant crime, hyperinflation, and shortages.)
 3. Did the people approve of Maduro and his desire to rewrite the 1999 Venezuela Constitution?
    A: No. (They thought it was his attempt to stay in power indefinitely.)
@@ -58,3 +58,20 @@ Venezuelan Presidential Crisis (2019):
    A: They wanted him to step down.
 5. Briefly describe one aspect of the state of democracy in Venezuela.
    A: (There are many possible answers.) The only democratically elected institution left, the National Assembly, had its powers limited. There are very few checks on presidential power. 
+   
+Participant 1: [phamanht]
+
+Celts (text file): 3/5
+Julius Palmer (250 wpm): 3/5
+Roman Republic (350 wpm) 2/5
+Venezuelan Presidential Crisis (500 wpm): 4/5
+
+Participant 2: 
+
+Celts (text file):
+Julius Palmer (250 wpm):
+Roman Republic (350 wpm):
+Venezuelan Presidential Crisis (500 wpm):
+
+
+
