@@ -71,37 +71,39 @@ Venezuelan Presidential Crisis (2019):
 5. Briefly describe one aspect of the state of democracy in Venezuela.
    A: (There are many possible answers.) The only democratically elected institution left, the National Assembly, had its powers limited. There are very few checks on presidential power. 
    
+Key: Article (speed): score/5 (questions that were answered correctly)
+
 Participant 1: [phamanht]
 
-Celts (text file): 3/5
+Celts (text file): 3/5 (1,2,4)
 
-Julius Palmer (250 wpm): 3/5
+Julius Palmer (250 wpm): 3/5 (1,4,5)
 
-Roman Republic (350 wpm) 2/5
+Roman Republic (350 wpm) 2/5 (2,4)
 
-Venezuelan Presidential Crisis (500 wpm): 4/5
+Venezuelan Presidential Crisis (500 wpm): 4/5 (2,3,4,5)
 
 Participant 2: [wondong] (He didn't do the readings prior to taking part in the experiment.)
 
-Celts (text file):2/5
+Celts (text file):2/5 (1,4)
 
-Julius Palmer (250 wpm):4/5
+Julius Palmer (250 wpm):4/5 (1,2,3,4)
 
-Roman Republic (350 wpm): 1/5
+Roman Republic (350 wpm): 1/5 (3)
 
-Venezuelan Presidential Crisis (500 wpm):3/5
+Venezuelan Presidential Crisis (500 wpm): 3/5 (2,3,4)
 
-Participant 3: 
+Participant 3: [nguyentr]
 
-Celts (text file): 4/5
+Celts (text file): 4/5 (1,3,4,5)
 
-Julius Palmer (250 wpm): 4/5
+Julius Palmer (250 wpm): 4/5 (1,2,3,4)
 
-Roman Republic (350 wpm): 
+Roman Republic (350 wpm): 2/5 (3,4)
 
-Venezuelan Presidential Crisis (500 wpm):
+Venezuelan Presidential Crisis (500 wpm): 2/5 (2,3)
 
-They seemed to comprehend about half of what they were reading for all speeds, and the speed did not seem to affect the results too much. Furthermore, the amount of interest that a participant had in a particular reading probably affected the results. Words in isolation at high speeds might be harder to comprehend because it is harder to remember the context or phrase it was found in. It also might be visually disconcerting to readers unfamiliar with speed readers. Also, the things that stood out to different people while reading were probably different, so they have comprehended the text but it isn't necessarily shown by the quizzes.
+They seemed to comprehend about half of what they were reading for all speeds, and the speed did not seem to affect the results too much for the first two participants. However, the third participant did seem to recall less as the speeds got faster. Furthermore, the amount of interest that a participant had in a particular reading probably affected the results. Words in isolation at high speeds might be harder to comprehend because it is harder to remember the context or phrase it was found in. It also might be visually disconcerting to readers unfamiliar with speed readers. Also, the things that stood out to different people while reading were probably different, so they have comprehended the text but it isn't necessarily shown by the quizzes.
 
 
 
