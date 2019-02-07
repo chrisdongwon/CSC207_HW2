@@ -103,7 +103,7 @@ Roman Republic (350 wpm): 2/5 (3,4)
 
 Venezuelan Presidential Crisis (500 wpm): 2/5 (2,3)
 
-They seemed to comprehend about half of what they were reading for all speeds, and the speed did not seem to affect the results too much for the first two participants. However, the third participant did seem to recall less as the speeds got faster. Furthermore, the amount of interest that a participant had in a particular reading probably affected the results. Words in isolation at high speeds might be harder to comprehend because it is harder to remember the context or phrase it was found in. It also might be visually disconcerting to readers unfamiliar with speed readers. Also, the things that stood out to different people while reading were probably different, so they have comprehended the text but it isn't necessarily shown by the quizzes.
+They seemed to comprehend about half of what they were reading for all speeds, and the speed did not seem to affect the results too much for the first two participants. However, the third participant did seem to recall less as the speeds got faster. Furthermore, the amount of interest that a participant had in a particular reading probably affected the results. Words in isolation at high speeds might be harder to comprehend because it is harder to remember the context or phrase it was found in. It also might be visually disconcerting to readers unfamiliar with speed readers. Also, the things that stood out to different people while reading were probably different, so they may have comprehended the text, but it isn't necessarily shown by the quizzes.
 
 
 
