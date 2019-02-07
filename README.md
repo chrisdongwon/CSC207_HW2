@@ -22,3 +22,15 @@ Celts:
    A: Ireland and Great Britain
 5. Name two current langauges that have Celtic roots.
    A:  Irish, Scottish Gaelic, Welsh, Breton, Cornish, and Manx
+   
+Julius A. Palmer Jr.:
+1. What is Julius Palmer best known for?
+   A: He is best known for his association with Hawaii and, in particular, the Hawaiian queen Liluokalani.
+2. Where was he born?
+   A: He was born in Massachusetts.
+3. What was his early career?
+   A: He was a sailor and later a sea captain.
+4. What sort of research did he do later in life?
+   A: He researched fungi. (In particular, he researched the health benefits of eating fungi.)
+5. What was his relationship with the Chinese immigrants in the US?
+   A: He tried to help them and dispel public misconceptions about them as a labor force.
