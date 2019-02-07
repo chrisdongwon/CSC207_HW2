@@ -57,4 +57,4 @@ Venezuelan Presidential Crisis (2019):
 4. How did the Lima Group (excluding Mexico), the US, the OAS feel about Maduro?
    A: They wanted him to step down.
 5. Briefly describe one aspect of the state of democracy in Venezuela.
-   A: (Many possible answers.) The only democratically elected institution left, the National Assembly, had its powers limited. There are very few checks on presidential power. 
+   A: (There are many possible answers.) The only democratically elected institution left, the National Assembly, had its powers limited. There are very few checks on presidential power. 
