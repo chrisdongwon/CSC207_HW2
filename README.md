@@ -34,3 +34,15 @@ Julius A. Palmer Jr.:
    A: He researched fungi. (In particular, he researched the health benefits of eating fungi.)
 5. What was his relationship with the Chinese immigrants in the US?
    A: He tried to help them and dispel public misconceptions about them as a labor force.
+   
+The Roman Republic:
+1. Name at least two of the three cultures that strongly influenced Roman society under the Republic.
+   A: Greek, Latin, and Etruscan
+2. What type of government did the Roman Republic have?
+   A: An oligarchy
+3. Around which sea was the Roman Empire considered to be a major power?
+   A: The Mediterranean
+4. Name one of the major problems that the Roman Republic faced which eventually led to its fall.
+   A: Wars with others, civil wars, overexpansion, influx of slaves which made the aristocracy rich but ruined peasants, conflicts between those in power
+5. What came after the Roman Republic?
+   A: The Roman Empire
