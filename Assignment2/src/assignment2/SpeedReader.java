@@ -114,5 +114,9 @@ public class SpeedReader {
       Thread.sleep((int) (60000.0 / spec[3]));
       p.clear();
     }
+    print(g, "Sentence Count: "+seed.getSentenceCount(), spec[0] / 2, spec[1] / 2);
+    Thread.sleep((int) (60000.0 / spec[3]));
+    p.clear();
+    print(g, "Word Count: "+seed.getWordCount(), spec[0]/2, spec[1]/2);
   }
 }
